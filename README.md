@@ -1,1 +1,1 @@
-This is python basic learnign 
+Start your journey with python now !
